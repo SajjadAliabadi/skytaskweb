@@ -64,7 +64,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST'){
             width: 100%;
             background-color: rgba(0, 0, 0, 0.7); /* رنگ تیره‌تر */
             padding: 5px; /* کمتر کردن فاصله با محتوا */
-            margin-bottom: -15px;
+            margin-bottom: -20px;
             color: #fff; /* رنگ متن */
             text-align: center;
             font-family: 'Byekan', sans-serif; /* فونت Byekan */
@@ -100,7 +100,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST'){
 
 <!-- فوتر سرتاسری -->
 <div class="footer">
-    <p>Made with ♥ by sajjad</p>
+    <p>Test For Skyroom</p>
 </div>
 
 </body>
